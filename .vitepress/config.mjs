@@ -31,7 +31,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'git@github.com:Sanart0/db_lab_6.git' }
+      { icon: 'github', link: 'https://github.com/Sanart0/db_lab_6.git' }
     ]
   }
 })
