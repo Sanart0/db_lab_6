@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FlexForm",
   description: "none",
-  base: '/db_lab/',
+  base: '/db_lab_6/',
 
   themeConfig: {
     nav: [
@@ -31,7 +31,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/varshavskiy05/db_lab.git' }
+      { icon: 'github', link: 'git@github.com:Sanart0/db_lab_6.git' }
     ]
   }
 })
