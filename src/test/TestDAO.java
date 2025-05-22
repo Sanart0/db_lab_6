@@ -13,7 +13,7 @@ public class TestDAO {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/schedule_db";
         String user = "user";
-        String password = "password";
+        String password = "user";
 
         try (Connection conn = DriverManager.getConnection(url, user, password)) {
             // Initialize DAOs
