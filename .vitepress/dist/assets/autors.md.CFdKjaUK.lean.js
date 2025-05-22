@@ -1,1 +1,0 @@
-import{_ as a,c as r,o as d,ae as e}from"./chunks/framework.BawTYs1Y.js";const u=JSON.parse('{"title":"Автори","description":"","frontmatter":{},"headers":[],"relativePath":"autors.md","filePath":"autors.md"}'),o={name:"autors.md"};function n(s,t,i,l,h,_){return d(),r("div",null,t[0]||(t[0]=[e("",6)]))}const p=a(o,[["render",n]]);export{u as __pageData,p as default};
