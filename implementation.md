@@ -533,7 +533,7 @@ public class TestDAO {
             lectures.forEach(System.out::println);
 
             // Test finding lectures for a student
-            System.out.println("\nLectures for student John Doe:");
+            System.out.println("\nLectures for student Artur Sanytskyi One:");
             List<Lecture> johnsLectures = studentDAO.findLecturesByStudentId(student1.getId());
             johnsLectures.forEach(System.out::println);
 
